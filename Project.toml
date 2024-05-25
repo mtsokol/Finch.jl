@@ -38,6 +38,7 @@ PrecompileTools = "1"
 Requires = "1"
 RewriteTools = "0.2"
 SyntaxInterface = "0.2.1"
+TensorMarket = "0.2"
 julia = "1.6.7"
 
 [extras]
